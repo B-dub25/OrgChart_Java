@@ -1,0 +1,7 @@
+/.metadata
+/.settings
+/bin
+/build
+/target
+/RemoteSystemsTempFiles
+*/.svn/
